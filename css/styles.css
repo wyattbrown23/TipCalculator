@@ -1,0 +1,72 @@
+.container
+{
+    height: 500px;
+    width: 300px;
+    margin: 100px auto;
+    background: #7684ff;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    
+}
+
+h1
+{
+    text-align: center;
+    background: black;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#calculate
+{
+    background-color: #ffb676;
+    height: 50px;
+    width: 150px;
+    margin-top: 40px;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+body
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background: #d6985a;
+}
+
+#billbeforetip
+{
+    height: 25px;
+    
+}
+
+#servicerating
+{
+    height: 50px;
+    width: 200px;
+    font-size: 15px;
+}
+
+button:hover
+{
+    filter: grayscale(1%);
+    transform: scale(1.01);
+}
+
+#totaltip
+{
+    font-size: large;
+    margin-top: 50px;
+}
+
+#totalbill
+{
+    font-size: larger;
+    margin-top: 10px;
+}
+  
+
+
